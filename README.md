@@ -1,4 +1,4 @@
-# android-face-detection-kairos
+# Android face detection with Kairos
 Implementation of Kairos face recognition api in an Android project
 
 https://www.kairos.com/
