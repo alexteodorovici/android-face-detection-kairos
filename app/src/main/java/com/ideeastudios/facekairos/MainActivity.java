@@ -1,4 +1,4 @@
-package facekairos.alex.com.facekairos;
+package com.ideeastudios.facekairos;
 
 import android.app.Activity;
 import android.app.ProgressDialog;
