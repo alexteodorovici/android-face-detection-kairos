@@ -8,6 +8,8 @@ Make sure to get your api key and app id from Kairos and replace them in MainAct
 ![Alt text](device-2018-06-13-123400.png?raw=true width=350 "Title")
 
 
-
+<p align="center">
+  <img width="350"  src="device-2018-06-13-123400.png?raw=true">
+</p>
 
 
